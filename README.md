@@ -1,2 +1,2 @@
 # Spatial-Analysis-Uk
-Author: Bilal Chaudhary
+Author: Bilal Chawdhary
